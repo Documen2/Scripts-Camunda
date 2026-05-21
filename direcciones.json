@@ -1,0 +1,18 @@
+[
+    {
+        "label": "1 - Dirección de fundación",
+        "value": "dirfundacion"
+    },
+    {
+        "label": "2 - Dirección cadena de abastecimiento",
+        "value": "dircadenaabastecimiento"
+    },
+    {
+        "label": "3 - Dirección comercial y tecnología",
+        "value": "dircomercialtecnologia"
+    },
+    {
+        "label": "4 - Dirección Administrativa financiera",
+        "value": "diradministrativafinanciera"
+    }
+]
