@@ -1,0 +1,66 @@
+[
+    {
+        "label": "Lapicero azul",
+        "value": "lapiceroazul"
+    },
+    {
+        "label": "Lapicero rojo",
+        "value": "lapicerorojo"
+    },
+    {
+        "label": "Lapicero negro",
+        "value": "lapiceronegro"
+    },
+    {
+        "label": "Lápiz",
+        "value": "lapiz"
+    },
+    {
+        "label": "Marcador para pizarra azul",
+        "value": "marcadorpizarraazul"
+    },
+    {
+        "label": "Marcador para pizarra verde",
+        "value": "marcadorpizarraverde"
+    },
+    {
+        "label": "Marcador para pizarra negro",
+        "value": "marcadorpizarranegro"
+    },
+    {
+        "label": "Marcador para pizarra rojo",
+        "value": "marcadorpizarrarojo"
+    },
+    {
+        "label": "Marcador permanente negro",
+        "value": "marcadorpermanentenegro"
+    },
+    {
+        "label": "Resaltador verde",
+        "value": "resaltadorverde"
+    },
+    {
+        "label": "Resaltador anaranjado",
+        "value": "resaltadoranaranjado"
+    },
+    {
+        "label": "Resaltador celeste",
+        "value": "resaltadorceleste"
+    },
+    {
+        "label": "Resaltador amarillo",
+        "value": "resaltadoramarillo"
+    },
+    {
+        "label": "Resma carta",
+        "value": "resmacarta"
+    },
+    {
+        "label": "Post-it grande",
+        "value": "postitgrande"
+    },
+    {
+        "label": "Post-it pequeño",
+        "value": "postitpequeno"
+    }
+]
