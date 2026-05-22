@@ -1,0 +1,29 @@
+
+[
+    {
+        "label": "Jefe de Reclutamiento, Selección y Contratación",
+        "value": "jefereclutamientoseleccioncontratacion"
+    },
+    {
+        "label": "Jefe de Desarrollo y Beneficios",
+        "value": "jefedesarrollobeneficios"
+    },
+    {
+        "label": "Jefe de Capacitación y Comunicación Interna",
+        "value": "jefecapacitacioncomunicacioninterna"
+    },
+    {
+        "label": "Jefe SSO y Ambiente",
+        "value": "jefessoambiente"
+    },
+    {
+        "label": "Jefe de Cumplimiento Legal y Nómina",
+        "value": "jefecumplimientolegalnomina"
+    },
+    {
+        "label": "Jefe de Servicios Administrativos y Seguridad",
+        "value": "jefeserviciosadministrativosseguridad"
+    }
+]
+
+
