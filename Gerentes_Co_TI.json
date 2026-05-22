@@ -1,0 +1,26 @@
+[
+    {
+        "label": "Gerente de Aperturas y Proyectos Networking",
+        "value": "gerenteaperturasproyectosnetworking"
+    },
+    {
+        "label": "Gerente de Mercadeo y Publicidad",
+        "value": "gerentemercadeopublicidad"
+    },
+    {
+        "label": "Gerente de Tecnología de la Información",
+        "value": "gerentetecnologiainformacion"
+    },
+    {
+        "label": "Gerente de Innovación y Desarrollo",
+        "value": "gerenteinnovaciondesarrollo"
+    },
+    {
+        "label": "Gerente de Proyectos Comerciales",
+        "value": "gerenteproyectoscomerciales"
+    },
+    {
+        "label": "Supervisor de País Sucursales",
+        "value": "supervisorpaissucursales"
+    }
+]
